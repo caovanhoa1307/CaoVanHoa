@@ -1,4 +1,4 @@
-html {
+*html {
     font-family: Georgia, 'Times New Roman', Times, serif;
     cursor: pointer;
 }
@@ -37,6 +37,7 @@ body {
     justify-content: center;
     background-color: #993333;
     padding-bottom: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     
 }
 
