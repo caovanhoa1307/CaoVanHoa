@@ -1,0 +1,212 @@
+*html {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    cursor: pointer;
+    height: 100%;
+}
+
+body {
+    margin: 0;
+}
+
+.background-video {
+    width: 100vw;
+    /* height: 100vh; */
+    position: fixed;
+    object-fit: cover;
+}
+/* 
+.video-background {
+    position: relative;
+    background-size: cover;
+    height: 100%;
+    margin: 0px;
+} */
+
+#main-one {
+    width: 100%;
+    position: absolute;
+    /* background-color: #FFCC99; */
+}
+
+.title {
+    padding-top: 10px;
+    display: flex;
+    color: #fff;
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+    background-color: #993333;
+    padding-bottom: 10px;
+    
+}
+
+#avatar {
+    height: 150px;
+    width: 150px;
+    border-radius: 90px;
+    margin-right: 10px;
+}
+
+#header {
+    padding-top: 20px;
+    text-align: center;
+    justify-content: center;
+}
+
+
+#main-one a {
+
+    text-decoration: none;
+    color: #fff;
+}
+
+#main-item1 {
+    margin-top: 10px;
+    /* background-color: aqua; */
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    
+
+}
+
+#button1 {
+    display: flex;
+    width: 300px;
+    height: 60px;
+    border-radius: 30px;
+    background-color: hotpink;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#span1 {
+    color: aqua;
+}
+
+#logo-vps {
+    width: 40px;
+}
+
+#button1:hover {
+    background-color: #FF0000;
+}
+
+#icon1 {
+    color: #FFFF00;
+}
+
+#main-item2 {
+    margin-top: 10px;
+    /* background-color: aqua; */
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    
+
+}
+
+#button2 {
+    display: flex;
+    width: 300px;
+    height: 60px;
+    border-radius: 30px;
+    background-color: #FFCC99;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+#logo-zalo {
+    width: 35px;
+}
+
+#button2:hover {
+    background-color: #FF0000;
+}
+
+#main-item3 {
+    margin-top: 10px;
+    /* background-color: aqua; */
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    
+
+}
+
+#button3 {
+    display: flex;
+    width: 300px;
+    height: 60px;
+    border-radius: 30px;
+    background-color: #66CC66;
+    justify-content: center;
+    align-items: center;
+}
+
+#button3:hover {
+    background-color: #FF0000;
+}
+#logo-cvh {
+    width: 28px;
+    border-radius: 30px;
+}
+
+
+#main-item4 {
+    margin-top: 10px;
+    /* background-color: aqua; */
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    
+
+}
+
+#button4 {
+    display: flex;
+    width: 300px;
+    height: 60px;
+    border-radius: 30px;
+    background-color: #CC66FF;
+    justify-content: center;
+    align-items: center;
+}
+
+#button4:hover {
+    background-color: #FF0000;
+}
+#logo-fb {
+    width: 25px;
+}
+
+#main-item5 {
+    margin-top: 10px;
+    /* background-color: aqua; */
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    
+
+}
+
+#button5 {
+    display: flex;
+    width: 300px;
+    height: 60px;
+    border-radius: 30px;
+    background-color: #FF9966;
+    justify-content: center;
+    align-items: center;
+}
+#logo-yt {
+    width: 30px;
+}
+
+#button5:hover {
+    background-color: #FF0000;
+}
+
+
